@@ -1,0 +1,9 @@
+.logo{
+    position: relative;
+}
+
+.logo h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: rgb(106, 106, 188);
+}
