@@ -1,0 +1,14 @@
+*{
+    padding:0;
+    margin:0;
+    border:none;
+}
+
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgb(251,251,251);
+    background: linear-gradient(4deg, rgba(251,251,251,1) 0%, rgba(122,145,175,1) 100%);
+}

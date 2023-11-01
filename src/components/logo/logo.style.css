@@ -4,6 +4,8 @@
 
 .logo h1{
     font-family: 'Dancing Script', cursive;
+    font-size: 42px;
     text-align: center;
     color: rgb(106, 106, 188);
+    padding: 20px 0;
 }
